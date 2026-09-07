@@ -1,0 +1,6 @@
+{
+  "name": "EKAM - Unified Material Master",
+  "description": "National Material Master Standardization & Inter-CPSE Harmonization Platform for Indian Public Sector Enterprises",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
